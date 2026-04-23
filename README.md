@@ -62,5 +62,4 @@ It transforms a multi-step manual process into a **single automated workflow**.
 
 ## 🔄 Workflow
 
-```text
-Logs → Copy → Extract → Organize → Submit → Monitor
+![alt text](mermaid-diagram.png)
